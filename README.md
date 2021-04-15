@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+[![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://asyrafff.com/)
+
+[![Asyraf](https://raw.githubusercontent.com/J2TEAM/J2TEAM/main/dino.gif)](https://asyrafff.com/)
 
 <!--
 **asyraffff/asyraffff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
