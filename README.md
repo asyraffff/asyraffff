@@ -1,4 +1,12 @@
-### Hello there 👋, I'm Asyraf
+## Hello there 👋, I'm Asyraf
+
+###  I read some <a href="https://asyrafff.com/books/" target="_blank" rel="noopener noreferrer">Books</a> in my free time,  Sketching with code, and blog my <a href="https://asyrafff.com/blog/" target="_blank" rel="noopener noreferrer">thought</a>
+
+### Pastime with  , 💎 , 🎹 and 🎸 || 🤘
+
+### more <a href="https://asyrafff.com/about/" target="_blank" rel="noopener noreferrer">about me</a>
+
+#### Status : `ActiveExploring` || ~~ActiveReading~~ || ~~ActiveShipping~~
 
 [![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://asyrafff.com/)
 
