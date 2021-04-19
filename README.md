@@ -1,18 +1,18 @@
 ## Hello there 👋, I'm Asyraf
 
-###  I read some <a href="https://asyrafff.com/books/" target="_blank" rel="noopener noreferrer">Books</a> in my free time,  Sketching with code, and blog my <a href="https://asyrafff.com/blog/" target="_blank" rel="noopener noreferrer">thought</a>
+I read some <a href="https://asyrafff.com/books/" target="_blank" rel="noopener noreferrer">Books</a> in my free time,  Sketching with code, and blog my <a href="https://asyrafff.com/blog/" target="_blank" rel="noopener noreferrer">thought</a>
 
-### Pastime with  , 💎 , 🎹 and 🎸 || 🤘
+Pastime with  , 💎 , 🎹 and 🎸 || 🤘
 
-### more <a href="https://asyrafff.com/about/" target="_blank" rel="noopener noreferrer">about me</a>
+more <a href="https://asyrafff.com/about/" target="_blank" rel="noopener noreferrer">about me</a>
 
-#### Status : `ActiveExploring` || ~~ActiveReading~~ || ~~ActiveShipping~~
+Status : `ActiveExploring` || ~~ActiveReading~~ || ~~ActiveShipping~~
 
 [![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://asyrafff.com/)
 
-### Muggle-born (not from Hacker, Maker, Breaker, or Shaker family)
+Muggle-born (not from Hacker, Maker, Breaker, or Shaker family)
 
-####  My interest in programming is basically on Ruby, Javascript and Swift :p 
+My interest in programming is basically on Ruby, Javascript and Swift :p 
 
 Follow me on [Twitter](https://twitter.com/asyr0f) || [RSS](https://asyrafff.com/feed/)
 
