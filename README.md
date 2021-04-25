@@ -4,10 +4,6 @@ I read some <a href="https://asyrafff.com/books/" target="_blank" rel="noopener 
 
 Pastime with  , 💎 , 🎹 and 🎸 || 🤘
 
-more <a href="https://asyrafff.com/about/" target="_blank" rel="noopener noreferrer">about me</a>
-
-Status : `ActiveExploring` || ~~ActiveReading~~ || ~~ActiveShipping~~
-
 [![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://asyrafff.com/)
 
 My interest in programming is basically on `Ruby`, `Javascript` and `Swift` :p 
