@@ -2,7 +2,7 @@
 
 [![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://asyrafff.com/)
 
-My interest in programming is basically on `Ruby`, `Javascript` and `Swift` :p 
+My tools in programming are `Ruby`, `Javascript` and `Swift`(soon) :p 
 
 Follow me on [Twitter](https://twitter.com/asyr0f) || [RSS](https://asyrafff.com/feed/)
 
