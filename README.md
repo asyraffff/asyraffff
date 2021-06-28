@@ -4,7 +4,7 @@
 
 My tools in programming are `Ruby`, `Javascript`, `Vim`, and `Swift`(soon) :p 
 
-Follow me on [Twitter](https://twitter.com/asyr0f) || [RSS](https://asyrafff.com/feed/)
+Follow me on [Blue Bird](https://twitter.com/asyr0f) 
 
 [![Asyraf](https://raw.githubusercontent.com/J2TEAM/J2TEAM/main/dino.gif)](https://asyrafff.com/)
 
