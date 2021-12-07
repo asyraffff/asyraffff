@@ -2,7 +2,7 @@
 
 [![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://asyrafff.com/)
 
-My tools in programming are `Ruby`, `Javascript`, `Vim`, and `Swift`(soon) :p 
+My tools in programming are `Ruby`, `Elixir, and `Javascript` :p 
 
 Follow me on [Blue Bird](https://twitter.com/asyr0f) 
 
