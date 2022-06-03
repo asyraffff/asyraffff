@@ -4,8 +4,6 @@
 
 My tools in programming are `Ruby`, `Elixir`, and `Javascript` :p 
 
-Follow me on [Blue Bird](https://twitter.com/asyr0f) 
-
 [![Asyraf](https://raw.githubusercontent.com/J2TEAM/J2TEAM/main/dino.gif)](https://asyrafff.com/)
 
 <!--
