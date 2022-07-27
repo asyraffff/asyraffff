@@ -2,7 +2,9 @@
 
 [![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1)](https://asyrafff.com/)
 
-My tools in programming are `Ruby`, `Elixir`, and `Javascript` :p 
+I'm most comfortable with `Python`, `Excel` & `SQL` for **Data Science** and **Data Analysis**.
+
+I make **music** in my free time and am actually a bedroom Music Producer. Being a maniacal fan of Kevin Parker for so long :P
 
 [![Asyraf](https://raw.githubusercontent.com/J2TEAM/J2TEAM/main/dino.gif)](https://asyrafff.com/)
 
